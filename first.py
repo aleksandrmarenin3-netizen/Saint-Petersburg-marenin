@@ -8,5 +8,3 @@ def func2():
     print("My third git-repo")
 
 func2()
-
-print("My fourth git-repo")
